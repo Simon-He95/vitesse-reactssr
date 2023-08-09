@@ -14,7 +14,7 @@ specifiers:
   '@types/react-router-dom': ^5.3.3
   '@typescript-eslint/eslint-plugin': ^5.36.1
   '@typescript-eslint/parser': ^5.36.1
-  '@unocss/reset': ^0.48.0
+  '@unocss/reset': ^0.55.0
   '@vitejs/plugin-react': ^3.0.0
   autoprefixer: ^10.4.8
   compression: 1.7.4
@@ -72,7 +72,7 @@ devDependencies:
   '@types/react-router-dom': 5.3.3
   '@typescript-eslint/eslint-plugin': 5.46.1_7bw7auq2cdyuq6owh5nsqzzkbe
   '@typescript-eslint/parser': 5.46.1_fa3eqp4avgh5ki6rpvg2htbfdu
-  '@unocss/reset': 0.48.0
+  '@unocss/reset': 0.55.0
   '@vitejs/plugin-react': 3.0.0_vite@4.0.4
   concurrently: 7.3.0
   copyfiles: 2.4.1
@@ -1246,8 +1246,8 @@ packages:
     resolution: {integrity: sha512-bdc2dbuDg+CzgeLowEwO1URRIMdzmCE4RH4IKpCpT1Xoa+92RRubdtzK4N/9ZiSo8d4vvfWcc8fvhZko/6smPQ==}
     dev: true
 
-  /@unocss/reset/0.48.0:
-    resolution: {integrity: sha512-i7z6Rbs7fXFD3NdlVJViFltpDJUCo5xDm5y01Xaoa4mJQHr/1335Ht0JW/emAJXf170UYSwb2rUeK1J3fty9eg==}
+  /@unocss/reset/0.55.0:
+    resolution: {integrity: sha512-TzpcOCIr16IbFxQ4vrSfEV+A8k0N4mJkhl7J3SZfAxBpNDBKAWDB6VBW9iEQY5aBYDLN3wRx1LskgEoubqBCPQ==}
     dev: true
 
   /@unocss/scope/0.47.6:

@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.2",
-    "@unocss/reset": "^0.48.0",
+    "@unocss/reset": "^0.55.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@types/compression": "1.7.2",
