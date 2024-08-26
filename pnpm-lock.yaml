@@ -6,7 +6,7 @@ specifiers:
   '@testing-library/react': ^13.4.0
   '@types/compression': 1.7.2
   '@types/concurrently': 6.4.0
-  '@types/eslint': 8.4.10
+  '@types/eslint': 8.56.12
   '@types/express': ^4.17.13
   '@types/node': 18.11.18
   '@types/react': ^18.0.18
@@ -64,7 +64,7 @@ devDependencies:
   '@testing-library/react': 13.4.0_biqbaboplfbrettd7655fr4n2y
   '@types/compression': 1.7.2
   '@types/concurrently': 6.4.0
-  '@types/eslint': 8.4.10
+  '@types/eslint': 8.56.12
   '@types/express': 4.17.14
   '@types/node': 18.11.18
   '@types/react': 18.0.26
@@ -863,8 +863,8 @@ packages:
       '@types/node': 18.11.18
     dev: true
 
-  /@types/eslint/8.4.10:
-    resolution: {integrity: sha512-Sl/HOqN8NKPmhWo2VBEPm0nvHnu2LL3v9vKo8MEq0EtbJ4eVzGPl41VNPvn5E1i5poMk4/XD8UriLHpJvEP/Nw==}
+  /@types/eslint/8.56.12:
+    resolution: {integrity: sha512-03ruubjWyOHlmljCVoxSuNDdmfZDzsrrz0P2LeJsOXr+ZwFQ+0yQIwNCwt/GYhV7Z31fgtXJTAEs+FYlEL851g==}
     dependencies:
       '@types/estree': 1.0.0
       '@types/json-schema': 7.0.11
